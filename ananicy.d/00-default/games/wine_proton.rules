@@ -87,6 +87,10 @@
 
 ### B ###
 
+# https://store.steampowered.com/app/1086940/Baldurs_Gate_3/
+{ "name": "bg3_dx11.exe", "type": "Game" }
+{ "name": "bg3.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/208650/Batman_Arkham_Knight/
 { "name": "BatmanAK.exe", "type": "Game" }
 
@@ -145,6 +149,9 @@
 
 # https://store.steampowered.com/app/8870/BioShock_Infinite/
 { "name": "BioShockInfinite.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/582660/Black_Desert/
+{ "name": "blackdesert64.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/3810/BloodRayne_Legacy/
 { "name": "rayne.exe", "type": "Game" }
@@ -282,7 +289,10 @@
 # https://store.steampowered.com/app/381210/Dead_by_Daylight/
 { "name": "DeadByDaylight-Win64-Shipping.exe", "type": "Game" }
 
-# https://store.steampowered.com/app/17470/Dead_Space_2008/
+# https://store.steampowered.com/app/1422450
+{ "name": "project8.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/17470
 { "name": "Dead Space.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/47780/Dead_Space_2/
@@ -417,6 +427,10 @@
 # https://store.steampowered.com/app/1245620/ELDEN_RING/
 { "name": "eldenring.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1369630/ENDER_LILIES_Quietus_of_the_Knights/
+{ "name": "EnderLiliesSteam-Win64-Shipping.exe", "type": "Game" }
+{ "name": "EnderLilies.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/350070/Environmental_Station_Alpha/
 { "name": "Environmental Station Alpha.exe", "type": "Game" }
 
@@ -433,6 +447,9 @@
 # https://store.steampowered.com/app/1007040/EARTH_DEFENSE_FORCE_5/
 { "name": "EDF5.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/236850/Europa_Universalis_IV/
+{ "name": "eu4.exe", "type": "Game" }
+
 ### F ###
 
 # https://store.steampowered.com/app/288470/Fable_Anniversary
@@ -440,6 +457,10 @@
 
 # https://store.steampowered.com/app/204030/Fable__The_Lost_Chapters
 { "name": "Fable.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1928420/Farlight_84/
+{ "name": "SolarlandClient-Win64-Shipping.exe", "type": "Game" }
+{ "name": "SolarlandClient.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/38400/Fallout_A_Post_Nuclear_Role_Playing_Game/
 { "name": "falloutw.exe", "type": "Game" }
@@ -491,6 +512,9 @@
 # https://store.steampowered.com/app/1680880/Forspoken/
 { "name": "FORSPOKEN.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1551360/Forza_Horizon_5/
+{ "name": "ForzaHorizon5.exe", "type": "Game" }
+
 ### G ###
 
 # GenshinImpact International version
@@ -498,6 +522,9 @@
 
 # Chinese version
 { "name": "YuanShen.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_DIRECTORS_CUT/
+{ "name": "GhostOfTsushima.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1150760/Gloomwood/
 { "name": "Gloomwood.exe", "type": "Game" }
@@ -523,6 +550,10 @@
 # Grounded, https://store.steampowered.com/app/962130/Grounded/
 { "name": "Maine-Win64-Shipping.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/1090630/Granblue_Fantasy_Versus/
+{ "name": "GBVS.exe", "type": "Game" }
+{ "name": "GBVS-Win64-Shipping.exe", "type": "Game" }
+
 # https://store.steampowered.com/app/12210/Grand_Theft_Auto_IV_The_Complete_Edition/
 { "name": "GTAIV.exe", "type": "Game" }
 
@@ -541,13 +572,19 @@
 # https://store.steampowered.com/app/12170/Grand_Theft_Auto
 { "name": "Grand Theft Auto.exe", "type": "Game" }
 
-# Guild Wars 2
+# https://store.steampowered.com/app/219990/Grim_Dawn/
+{ "name": "Grim Dawn.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/1284210/Guild_Wars_2/
 { "name": "Gw2-64.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1593500/God_of_War/
 { "name": "GoW.exe", "type": "Game" }
 
 ### H ###
+
+# https://store.steampowered.com/app/1145360/Hades/
+{ "name": "Hades.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/
 { "name": "MCC-Win64-Shipping.exe", "type": "Game" }
@@ -819,6 +856,10 @@
 # https://store.steampowered.com/app/1869590/Omega_Strikers/
 { "name": "OmegaStrikers.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/798490/Othercide/
+{ "name": "Othercide.exe", "type": "Game" }
+{ "name": "UnityCrashHandler64.exe", "type": "BG_CPUIO" }
+
 # https://store.steampowered.com/app/794260/Outward_Definitive_Edition/
 { "name": "Outward.exe", "type": "Game" }
 
@@ -871,6 +912,12 @@
 # Standalone version
 { "name": "PathOfExile_x64.exe", "type": "Game" }
 { "name": "PathOfExile.exe", "type": "Game" }
+
+# Pathfinder: Kingmaker https://store.steampowered.com/app/640820
+{ "name": "Kingmaker.exe", "type": "Game" }
+
+# Pathfinder: Wrath of the Righteous https://store.steampowered.com/app/1184370
+{ "name": "Wrath.exe", "type": "Game" }
 
 # Pro Evolution Soccer 2013 
 { "name": "pes2013.exe", "type": "Game" }
@@ -1100,7 +1147,13 @@
 
 # The Finals https://store.steampowered.com/app/2073850/THE_FINALS/
 { "name": "Discovery.exe", "type": "Game" }
+{ "name": "start_protected_game.exe", "type": "Game" }
+{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "Game" }
+{ "name": "UEPrereqSetup_x64.exe", "type": "Game" }
+{ "name": "CrashReportClient.exe", "type": "BG_CPUIO" }
 { "name": "crashpad_handler.exe", "type": "BG_CPUIO" }
+{ "name": "CrGpuMain.exe", "type": "BG_CPUIO" }
+{ "name": "CrUtilityMain.exe", "type": "BG_CPUIO" }
 
 # https://store.steampowered.com/agecheck/app/242760/The_Forest/
 { "name": "TheForest.exe", "type": "Game" }
@@ -1156,6 +1209,10 @@
 { "name": "TOTClient-Win64-Shipping.exe", "type": "Game" }
 { "name": "TOTClient.exe", "type": "Game" }
 
+# https://store.steampowered.com/app/835960/The_Talos_Principle_2/
+{ "name": "Talos2-Win64-Shipping.exe", "type": "Game" }
+{ "name": "Talos2.exe", "type": "Game" }
+
 ### T ###
 
 # TERA Online MMORPG Game
@@ -1163,7 +1220,6 @@
 
 # https://store.steampowered.com/app/105600/Terraria/
 { "name": "Terraria", "type": "Game" }
-{ "name": "Terraria.bin.x86_64", "type": "Game" }
 
 # https://store.steampowered.com/app/211600/Thief_Gold/
 # https://www.ttlg.com/forums/showthread.php?t=134733
@@ -1182,6 +1238,12 @@
 # https://store.steampowered.com/app/6980/Thief_Deadly_Shadows/
 { "name": "t3.exe", "type": "Game" }
 { "name": "T3Main.exe", "type": "Game" }
+
+# https://store.steampowered.com/app/2429640/THRONE_AND_LIBERTY/
+# this is from open beta test, beware
+{ "name": "TL.exe", "type": "Game" }
+{ "name": "EasyAntiCheat_EOS_Setup.exe", "type": "Game" }
+{ "name": "UnrealCEFSubProcess.exe", "type": "Game" }
 
 # https://store.steampowered.com/app/1237970/Titanfall_2/
 { "name": "Titanfall2.exe", "type": "Game" }
