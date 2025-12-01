@@ -4,6 +4,11 @@
 # Steam integrated web browser
 { "name": "steamwebhelper", "type": "BG_CPUIO" }
 
+# steam-runtime-launcher 
+{ "name": "steam-runtime-launcher-service", "type": "BG_CPUIO" }
+{ "name": "srt-logger", "type": "BG_CPUIO" }
+{ "name": "srt-bwrap", "type": "BG_CPUIO" }
+
 ### A ###
 
 # https://store.steampowered.com/app/332200/Axiom_Verge/
@@ -240,6 +245,10 @@
 
 ### M ###
 
+# Megabonk
+# https://store.steampowered.com/app/3405340
+{ "name": "Megabonk.x86_64", "type": "Game" }
+
 # https://store.steampowered.com/app/361300/Mother_Russia_Bleeds/
 { "name": "Mother Russia Bleeds.x86_64", "type": "Game" }
 
@@ -447,6 +456,7 @@
 
 # http://store.steampowered.com/app/440/Team_Fortress_2/
 { "name": "tf_linux64", "type": "Game" }
+{ "name": "tf.sh", "type": "Game" }
 
 # http://store.steampowered.com/app/203160/Tomb_Raider/
 # 2013 reboot version
